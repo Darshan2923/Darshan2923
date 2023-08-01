@@ -1,24 +1,25 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Darshan Patel</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A ML Engineer, Python(Django), React Developer</h3>
+<h4 align="center">Want to Hire Me? Mail me at <a href="mailto:darshanpatel2923@gmail.com">darshanpatel2923@gmail.com</a></h4>
 <p>
-<img align="right" alt="Coding" width="400" src="![coder](https://github.com/Darshan2923/Darshan2923/assets/135990671/df039af1-39db-49db-9f6c-8a5e750f52a5)
-"></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan2923&label=Profile%20views&color=0e75b6&style=flat" alt="darshan2923" /> </p>
+<img width=40% align="right" src="https://img-c.udemycdn.com/redactor/raw/2020-10-10_10-32-20-69d03d986e3001cfb40c457eede13a58.jpg">
+<br>
+<br>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Travelophile**
+- 🌱 I’m currently learning **MLOps, Data Science & Web Development(React, Redux)**
 
-- 🌱 I’m currently learning **MERN stack**
-
-- 🤝 I’m looking for help with **MERN stack, Software Engineering**
-
-- 💬 Ask me about **react,js,django**
+- 💬 Ask me about **Python, React, Django, Node.js, Express, Web Scraping, TensorFlow, Machine Learning**
 
 - 📫 How to reach me **darshanpatel2923@gmail.com**
+  
+- ⭐️ Fun Fact about myself **I love watching anime😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
