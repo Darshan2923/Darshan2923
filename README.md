@@ -9,8 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan2923&label=Profile%20views&color=0e75b6&style=flat" alt="darshan2923" /> </p>
 <img width=40% align="right" src="https://img-c.udemycdn.com/redactor/raw/2020-10-10_10-32-20-69d03d986e3001cfb40c457eede13a58.jpg">
-<br>
-<br>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
