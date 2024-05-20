@@ -3,7 +3,6 @@
 <h3 align="center"> <a href="https://portfolio-git-main-darshan2923.vercel.app/" target='__blank'>   My Portfolio ✌🏻   </a> </h3>
 <h3 align="center">A Data Analyst ,Python(Django) ,React Developer</h3> 
 <h4 align="center">Want to Hire Me? Mail me at <a href="mailto:darshanpatel2923@gmail.com">darshanpatel2923@gmail.com</a></h4>
-
 <p>
 
 
