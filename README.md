@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>    I'm Darshan Patel</h1>
-<h3 align="center"> <a href="https://portfolio-git-main-darshan2923.vercel.app/" target='__blank'>   My Portfolio ✌🏻  </a> </h3>
+<h3 align="center"> <a href="https://portfolio-git-main-darshan2923.vercel.app/" target='__blank'>   My Portfolio ✌🏻  </a> </h3> 
 <h3 align="center">A MERN Developer, Full Stack Java(SpringBoot),Python(Django), Data Analyst  </h3> 
 <h4 align="center">Want to Hire Me? Mail me at <a href="mailto:darshanpatel2923@gmail.com">darshanpatel2923@gmail.com</a></h4>      
 <p>  
