@@ -3,7 +3,7 @@
 <h3 align="center"> <a href="https://portfolio-git-main-darshan2923.vercel.app/" target='__blank'>   My Portfolio ✌🏻  </a> </h3> 
 <h3 align="center">A MERN Developer, Full Stack Java(SpringBoot),Python(Django), Data Analyst  </h3>  
 <h4 align="center">Want to Hire Me? Mail me at <a href="mailto:darshanpatel2923@gmail.com">darshanpatel2923@gmail.com</a></h4>             
-<p>   
+<p>    
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan2923&label=Profile%20views&color=0e75b6&style=flat" alt="darshan2923" /> </p> 
