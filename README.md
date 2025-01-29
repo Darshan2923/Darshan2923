@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **darshanpatel2923@gmail.com**
   
-- ⭐️ Fun Fact about myself **I love watching anime😋**
+- ⭐️ Fun Fact about myself **I love watching anime 🤩**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
